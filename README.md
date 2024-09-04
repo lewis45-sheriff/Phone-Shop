@@ -41,7 +41,7 @@ To use this website, simply download the repository and open the `index.html` fi
 
 ```bash
 # Clone the repository
-git clone https://github.com/alaa-abdallah1/mobile-shop.git
+git clone https://github.com/lewis45-sheriff/Phone-Shop.git
 
 # Change into the project directory
 cd mobile-shop
